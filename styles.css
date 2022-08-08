@@ -1,0 +1,76 @@
+
+body{
+    text-align: center;
+    background-image: url("proj.jpg");
+    margin-right: 90px;
+}
+
+h1{
+    color: white;
+}
+
+
+.intro{
+    font-size: 2.6rem;
+    font-family: 'Square Peg', cursive;
+    padding: 3% 10% 0 10%;
+    width: 65%;
+    margin-left: 22%;
+    font-weight: bolder;
+
+}
+
+
+.k{
+    color: lightcoral;
+}
+.college{
+    color: #A66CFF;
+}
+.college:hover{
+    color: #A66CFF;
+    font-size: 2.7rem ;
+}
+
+.iiit{
+    text-decoration: none;
+}
+.icon{
+    margin-right: 380px ;
+}
+.fab{
+    padding-left: 8px;
+}
+
+
+.btn {
+    background: #748DA6;
+    background-image: -webkit-linear-gradient(top, #748DA6, #748DA6);
+    background-image: -moz-linear-gradient(top, #748DA6, #748DA6);
+    background-image: -ms-linear-gradient(top, #748DA6, #748DA6);
+    background-image: -o-linear-gradient(top, #748DA6, #748DA6);
+    background-image: linear-gradient(to bottom, #748DA6, #748DA6);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 15px;
+    text-decoration: none;
+    width: 60%;
+    margin-left: 400px;
+    opacity: 0.7;
+  }
+  
+  .btn:hover {
+    background: #3B9AE1;
+    background-image: -webkit-linear-gradient(top, #3B9AE1, #3B9AE1);
+    background-image: -moz-linear-gradient(top, #3B9AE1, #3B9AE1);
+    background-image: -ms-linear-gradient(top, #3B9AE1, #3B9AE1);
+    background-image: -o-linear-gradient(top, #3B9AE1, #3B9AE1);
+    background-image: linear-gradient(to bottom, #3B9AE1, #3B9AE1);
+    text-decoration: none;
+    opacity: 1;
+    padding: 18px;
+  }
